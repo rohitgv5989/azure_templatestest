@@ -1,2 +1,3 @@
 # azure_templatestest
-Tsting the Azure templates
+Testing the Azure templates
+The templates modification will be don
